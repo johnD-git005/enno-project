@@ -388,9 +388,9 @@ nav li.dropdown {
 
 /* SERVICES - CONTAINERS */
 
-.services-containers{
+/* .services-containers{
     
-}
+} */
 
 .grp1-grp3{
     display: flex;
@@ -606,9 +606,9 @@ nav li.dropdown {
     margin-left: 2%;
 }
 
-.test-cont-1{
+/* .test-cont-1{
     
-}
+} */
 
 .test-cont-1 p{
     width: 320px;
@@ -623,9 +623,9 @@ nav li.dropdown {
     padding-bottom: 60px;
 }
 
-.img-div{
+/* .img-div{
     
-}
+} */
 
 .img-founder{
     position: relative;
@@ -928,13 +928,13 @@ form{
     padding: 25px;
 }
 
-.your-name{
+/* .your-name{
 
 }
 
 .your-name label{
 
-}
+} */
 
 .your-name input{
     width: 285px;
@@ -946,9 +946,9 @@ form{
     gap: 20px;
 }
 
-.subject label{
+/* .subject label{
 
-}
+} */
 
 .subject input{
     width: 593px;
@@ -1050,16 +1050,15 @@ form{
 
 /* FOOTER - SECTION */
 
-footer{
+/* footer{
     
-}
+} */
 
 .footer-general-div{
     display: flex;
     margin-top: 5%;
     margin-left: 10%;
     margin-right: 6%;
-   /*  gap: 50px; */
 }
 
 .footergrp2-grp4{
@@ -1115,7 +1114,6 @@ footer{
     font-size: 30px;
     color: rgb(87, 85, 85);
     gap: 20px;
-
 }
 
 .footer-icons .bx{
@@ -1142,17 +1140,17 @@ footer{
     width: 200px;
 }
 
-.footer-grp1-b{
+/* .footer-grp1-b{
 
-}
+} */
 
 .footer-grp2 ul{
     color: rgb(201, 196, 196);
 }
 
-.footer-grp2 ul :hover{
+/* .footer-grp2 ul :hover{
     
-}
+} */
 
 .footer-grp2 li{
     list-style: none;
@@ -1163,9 +1161,9 @@ footer{
     color: black;
 }
 
-.footer-grp3 ul{
+/* .footer-grp3 ul{
 
-}
+} */
 
 .footer-grp3 ul a{
     text-decoration: none;
